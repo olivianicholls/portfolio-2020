@@ -6,5 +6,4 @@
  */
 ?>
 
-<?php require_once('assets.php'); ?>
 <?php require_once('menus.php'); ?>

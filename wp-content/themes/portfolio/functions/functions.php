@@ -6,4 +6,5 @@
  */
 ?>
 
-<?php include 'setup/setup.php';?>
+<?php require_once('general/general.php'); ?>
+<?php require_once('setup/setup.php'); ?>
